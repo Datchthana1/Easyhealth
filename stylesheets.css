@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: auto;
+}
+
+footer{
+    width: auto;
+    height: fit-content;
+    padding: 10px;
+    align-items: 20px;
+    border-radius:20px 20px 0px 0px ;
+    background-color: #33EFD6 ;
+}
+
+.contact-page{
+    height: fit-content;
+}
+
+.contact-page li{
+    margin: 10px;
+    list-style: none;
+}
