@@ -18,7 +18,9 @@ footer{
     height: fit-content;
 }
 
-.contact-page li{
-    margin: 10px;
+.contact-container li{
     list-style: none;
+    margin-left: 70px;
+    margin-top: 10px;
+    font-size: 30px;
 }
